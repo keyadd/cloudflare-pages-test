@@ -1,4 +1,4 @@
-const addr = 'worker-us-vless.keyfromadd.workers.dev';
+const addr = 'pages-proxy.acorn.eu.org';
 
 export async function onRequest(context) {
     const request = context.request;
