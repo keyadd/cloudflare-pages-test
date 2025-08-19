@@ -1,4 +1,4 @@
-const addr = 'pages-proxy.acorn.eu.org';
+const addr = 'radiation-tn-io-councils.trycloudflare.com';
 
 export async function onRequest(context) {
     const request = context.request;
