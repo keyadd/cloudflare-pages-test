@@ -1,4 +1,4 @@
-const addr = 'radiation-tn-io-councils.trycloudflare.com';
+const addr = 'dns.cloudflare.com/dns-query';
 
 export async function onRequest(context) {
     const request = context.request;
