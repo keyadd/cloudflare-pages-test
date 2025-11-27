@@ -1,4 +1,4 @@
-const addr = 'dns.cloudflare.com/dns-query';
+const addr = '1.1.1.1/dns-query';
 
 export async function onRequest(context) {
     const request = context.request;
