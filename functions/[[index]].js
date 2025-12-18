@@ -1,4 +1,4 @@
-const addr = '1.1.1.1/dns-query';
+const addr = 'workers-nat64.1970074429.workers.dev';
 
 export async function onRequest(context) {
     const request = context.request;
